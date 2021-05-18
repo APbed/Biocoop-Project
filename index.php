@@ -16,6 +16,7 @@ and open the template in the editor.
         echo 'Tout fonctionne bien !';
         echo 'modifications du fichier index.php';
         echo 'c\'est moi rezak';
+        echo 'c\'est moi rezak';
         ?>
     </body>
 </html>
