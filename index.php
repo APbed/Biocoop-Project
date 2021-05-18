@@ -14,6 +14,7 @@ and open the template in the editor.
         <?php
         // put your code here
         echo 'Tout fonctionne bien !';
+        echo 'modifications du fichier index.php';
         ?>
     </body>
 </html>
