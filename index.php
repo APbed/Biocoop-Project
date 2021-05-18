@@ -10,8 +10,12 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
+        <h1>Test GitHub Arnaud Bouchenard</h1>
         <?php
         // put your code here
+        echo 'Tout fonctionne bien !';
+        echo 'modifications du fichier index.php';
+        echo 'c\'est moi rezak';
         ?>
     </body>
 </html>
